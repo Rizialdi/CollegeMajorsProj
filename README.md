@@ -1,2 +1,2 @@
 # CollegeMajorsProj
-Visuaul analysis of CollegeMajors dataset
+Visual analysis of CollegeMajors dataset
